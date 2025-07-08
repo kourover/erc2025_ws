@@ -1,0 +1,5 @@
+[console_scripts]
+astar_planner = my_bot.astar_planner:main
+go_to_point = my_bot.go_to_point:main
+path_follower = my_bot.path_follower:main
+
