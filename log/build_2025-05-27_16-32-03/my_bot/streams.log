@@ -1,0 +1,23 @@
+[0.374s] Invoking command in '/home/cagatay/Desktop/dev_ws/build/my_bot': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cagatay/Desktop/dev_ws/build/my_bot/build --no-deps symlink_data --force
+[0.497s] running develop
+[0.569s] running egg_info
+[0.570s] writing my_bot.egg-info/PKG-INFO
+[0.570s] writing dependency_links to my_bot.egg-info/dependency_links.txt
+[0.570s] writing entry points to my_bot.egg-info/entry_points.txt
+[0.570s] writing requirements to my_bot.egg-info/requires.txt
+[0.570s] writing top-level names to my_bot.egg-info/top_level.txt
+[0.572s] reading manifest file 'my_bot.egg-info/SOURCES.txt'
+[0.572s] writing manifest file 'my_bot.egg-info/SOURCES.txt'
+[0.573s] running build_ext
+[0.573s] Creating /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my-bot.egg-link (link to .)
+[0.574s] Installing astar_planner script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.583s] Installing go_to_point script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.583s] Installing path_follower script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.583s] 
+[0.583s] Installed /home/cagatay/Desktop/dev_ws/build/my_bot
+[0.584s] running symlink_data
+[0.584s] symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/resource/my_bot -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/ament_index/resource_index/packages
+[0.584s] symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/package.xml -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot
+[0.584s] symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/launch/launch_sim.launch.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot/launch
+[0.584s] symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/launch/rsp.launch.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot/launch
+[0.598s] Invoked command in '/home/cagatay/Desktop/dev_ws/build/my_bot' returned '0': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cagatay/Desktop/dev_ws/build/my_bot/build --no-deps symlink_data --force

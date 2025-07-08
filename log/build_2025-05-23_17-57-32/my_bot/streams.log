@@ -1,0 +1,35 @@
+[0.368s] Invoking command in '/home/cagatay/Desktop/dev_ws/build/my_bot': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/cagatay/Desktop/dev_ws/build/my_bot/build
+[0.500s] running develop
+[0.574s] Removing /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my-bot.egg-link (link to .)
+[0.587s] Invoked command in '/home/cagatay/Desktop/dev_ws/build/my_bot' returned '0': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/cagatay/Desktop/dev_ws/build/my_bot/build
+[0.588s] Invoking command in '/home/cagatay/Desktop/dev_ws/src/my_bot': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_bot build --build-base /home/cagatay/Desktop/dev_ws/build/my_bot/build install --record /home/cagatay/Desktop/dev_ws/build/my_bot/install.log --single-version-externally-managed install_data --force
+[0.697s] running egg_info
+[0.698s] writing ../../build/my_bot/my_bot.egg-info/PKG-INFO
+[0.698s] writing dependency_links to ../../build/my_bot/my_bot.egg-info/dependency_links.txt
+[0.698s] writing entry points to ../../build/my_bot/my_bot.egg-info/entry_points.txt
+[0.698s] writing requirements to ../../build/my_bot/my_bot.egg-info/requires.txt
+[0.698s] writing top-level names to ../../build/my_bot/my_bot.egg-info/top_level.txt
+[0.699s] reading manifest file '../../build/my_bot/my_bot.egg-info/SOURCES.txt'
+[0.700s] adding license file 'LICENSE.md'
+[0.700s] writing manifest file '../../build/my_bot/my_bot.egg-info/SOURCES.txt'
+[0.700s] running build
+[0.700s] running build_py
+[0.700s] running install
+[0.700s] running install_lib
+[0.701s] copying /home/cagatay/Desktop/dev_ws/build/my_bot/build/lib/my_bot/go_to_point.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my_bot
+[0.701s] copying /home/cagatay/Desktop/dev_ws/build/my_bot/build/lib/my_bot/__init__.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my_bot
+[0.701s] byte-compiling /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my_bot/go_to_point.py to go_to_point.cpython-310.pyc
+[0.701s] byte-compiling /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my_bot/__init__.py to __init__.cpython-310.pyc
+[0.701s] running install_data
+[0.702s] copying resource/my_bot -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/ament_index/resource_index/packages
+[0.702s] copying package.xml -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot
+[0.702s] copying launch/launch_sim.launch.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot/launch
+[0.702s] copying launch/rsp.launch.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot/launch
+[0.702s] running install_egg_info
+[0.703s] Copying ../../build/my_bot/my_bot.egg-info to /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my_bot-0.0.0-py3.10.egg-info
+[0.704s] running install_scripts
+[0.715s] Installing astar_planner script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.715s] Installing go_to_point script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.715s] Installing path_follower script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.715s] writing list of installed files to '/home/cagatay/Desktop/dev_ws/build/my_bot/install.log'
+[0.727s] Invoked command in '/home/cagatay/Desktop/dev_ws/src/my_bot' returned '0': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_bot build --build-base /home/cagatay/Desktop/dev_ws/build/my_bot/build install --record /home/cagatay/Desktop/dev_ws/build/my_bot/install.log --single-version-externally-managed install_data --force

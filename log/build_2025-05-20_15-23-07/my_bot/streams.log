@@ -1,0 +1,19 @@
+[0.311s] Invoking command in '/home/cagatay/Desktop/dev_ws/build/my_bot': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cagatay/Desktop/dev_ws/build/my_bot/build --no-deps symlink_data
+[0.451s] running develop
+[0.530s] running egg_info
+[0.530s] writing my_bot.egg-info/PKG-INFO
+[0.530s] writing dependency_links to my_bot.egg-info/dependency_links.txt
+[0.530s] writing entry points to my_bot.egg-info/entry_points.txt
+[0.530s] writing requirements to my_bot.egg-info/requires.txt
+[0.530s] writing top-level names to my_bot.egg-info/top_level.txt
+[0.531s] reading manifest file 'my_bot.egg-info/SOURCES.txt'
+[0.532s] writing manifest file 'my_bot.egg-info/SOURCES.txt'
+[0.533s] running build_ext
+[0.533s] Creating /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my-bot.egg-link (link to .)
+[0.533s] Installing astar_planner script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.533s] Installing go_to_point script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.533s] Installing path_follower script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+[0.533s] 
+[0.533s] Installed /home/cagatay/Desktop/dev_ws/build/my_bot
+[0.533s] running symlink_data
+[0.547s] Invoked command in '/home/cagatay/Desktop/dev_ws/build/my_bot' returned '0': PYTHONPATH=/home/cagatay/Desktop/dev_ws/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cagatay/Desktop/dev_ws/build/my_bot/build --no-deps symlink_data

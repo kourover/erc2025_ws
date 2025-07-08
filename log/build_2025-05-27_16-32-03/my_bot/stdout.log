@@ -1,0 +1,21 @@
+running develop
+running egg_info
+writing my_bot.egg-info/PKG-INFO
+writing dependency_links to my_bot.egg-info/dependency_links.txt
+writing entry points to my_bot.egg-info/entry_points.txt
+writing requirements to my_bot.egg-info/requires.txt
+writing top-level names to my_bot.egg-info/top_level.txt
+reading manifest file 'my_bot.egg-info/SOURCES.txt'
+writing manifest file 'my_bot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/cagatay/Desktop/dev_ws/install/my_bot/lib/python3.10/site-packages/my-bot.egg-link (link to .)
+Installing astar_planner script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+Installing go_to_point script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+Installing path_follower script to /home/cagatay/Desktop/dev_ws/install/my_bot/bin
+
+Installed /home/cagatay/Desktop/dev_ws/build/my_bot
+running symlink_data
+symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/resource/my_bot -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/ament_index/resource_index/packages
+symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/package.xml -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot
+symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/launch/launch_sim.launch.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot/launch
+symbolically linking /home/cagatay/Desktop/dev_ws/build/my_bot/launch/rsp.launch.py -> /home/cagatay/Desktop/dev_ws/install/my_bot/share/my_bot/launch
